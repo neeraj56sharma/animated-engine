@@ -1,4 +1,4 @@
 # animated-engine
 this is my first repository.
 <br>
-Author - Neeraj Sharma (iimt college)
+Author - Neeraj  kumar Sharma (iimt college)
